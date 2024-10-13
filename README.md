@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🤝Hi, I am an engineer with over 8 years of experience in telecom.<br><br>🌱Currently, I’m exploring data science and AI trends in QoS, RF optimization<br>and planning telecom space.<br><br>💬 Fun fact: Telecom operators are using AI and real time data to create “self-healing” networks!
+🤝Hi, I am an engineer with over 8 years of experience in telecom.<br><br>🌱Currently, I’m exploring data science and AI trends in QoS, RF optimization<br>and planning in the telecom space.<br><br>💬 Fun fact: Telecom operators are using AI and real time data to create “self-healing” networks!
 
 
 ## 🌐 Socials:
